@@ -23,6 +23,7 @@ https://github.com/shiversoftdev/t7-compiler
 
 # Credits
 * Serious
-* AngryCarrot789 
+* AngryCarrot789
+* Jomb0 - just for the BOIII addition, that's literally all I did lol
 
 ![Screenshot](https://github.com/ssnob/T7-Compiler-UI/blob/main/UI.png)
