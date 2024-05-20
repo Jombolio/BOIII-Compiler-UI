@@ -31,7 +31,7 @@ namespace Idea.Games
                     __game = "boiii";
                     if (__game == null || __game.BaseProcess.HasExited)
                     {
-                        throw new Exception("Black Ops 3 not found.");
+                        throw new Exception("boiii not found.");
                     }
                     __game.SetDefaultCallType(XCTT_RIPHijack);
                 }

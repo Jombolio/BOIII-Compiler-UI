@@ -11,6 +11,7 @@ namespace Idea.Games
             BLACKOPS3 = 0x0,
             BLACKOPS4 = 0x1,
             UNKNOWN = 0x2,
+            BOIII = 0x3,
         }
         public enum GAMEMODE : int
         {
